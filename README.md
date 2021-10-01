@@ -1,1 +1,2 @@
-# html-through-foreignObject
+# Does it still work?
+![](./image.svg)
